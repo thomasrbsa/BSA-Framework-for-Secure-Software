@@ -34,7 +34,7 @@ BSA has published Version 1.0 of the Framework for Secure Software.  The Framewo
 
 ![The BSA Framework for Secure Software cover](https://www.bsa.org/images/reports/styles/compression/public/bsasoftwaresecurityframeworkcoverthumb.jpg)
 
-[**Download the Report**](https://www.bsa.org/files/reports/bsa_software_security_framework_web_final.pdf)
+[**Download the Report**](../master/BSA-Software-Security-Framework.pdf)
 
 © 2019 BSA | The Software Alliance
 
