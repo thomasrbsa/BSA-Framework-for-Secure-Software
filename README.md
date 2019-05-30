@@ -1,5 +1,5 @@
 # BSA-Framework-for-Secure-Software
-The BSA Framework for Secure Software is a new tool to describe and assess security outcomes for software products and services, built on established best practices and the experiences of some of the world's leading software developers.  The Framework is a living document that will be updated based on feedback from the Github community and other stakeholders. 
+The BSA Framework for Secure Software is a new tool to describe and assess security outcomes for software products and services, built on established best practices and the experiences of some of the world's leading software developers.  The Framework is a living document that will be updated based on feedback from the GitHub community and other stakeholders. 
 
 # Overview 
 
@@ -30,7 +30,7 @@ its security profile according to concrete metrics; to guide acquisition of thir
 
 # How can you contribute?  
 
-BSA has published Version 1.0 of the Framework for Secure Software.  The Framework is intended to be a living document, to be updated based on ongoing feedback from key stakeholders, including software developers, their customers, and policymakers.  BSA is eager to receive feedback from the Github community on the scope, substance, and implementation of the Framework.   Please create an issue or a pull request to participate.
+BSA has published Version 1.0 of the Framework for Secure Software.  The Framework is intended to be a living document, to be updated based on ongoing feedback from key stakeholders, including software developers, their customers, and policymakers.  BSA is eager to receive feedback from the GitHub community on the scope, substance, and implementation of the Framework.  Please create an issue or a pull request to participate.
 
 ![The BSA Framework for Secure Software cover](https://www.bsa.org/images/reports/styles/compression/public/bsasoftwaresecurityframeworkcoverthumb.jpg)
 
